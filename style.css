@@ -538,7 +538,7 @@ header{
   height: 60vh;
 }
 .frame {
-  background-image: url(./fame-mobile.png);
+  background-image: url(./img/fame-mobile.png);
   background-size: fixed;
   background-position: center;
   height: 389px;
